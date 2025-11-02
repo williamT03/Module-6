@@ -10,7 +10,7 @@ import './App.css'
 const App = () => {
   return (
     <WatchlistProvider>
-      <Router>
+      <Router basename="/Module-6">
         <div className="app-container">
           <Routes>
             <Route path="/" element={<Home />} />
