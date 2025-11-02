@@ -2,7 +2,7 @@
   "name": "module-6",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://williamT03.github.io/module-6",
+  "homepage": "https://williamT03.github.io/module-6/",
   "type": "module",
   "scripts": {
     "dev": "vite",
